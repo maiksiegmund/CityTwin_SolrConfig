@@ -20,7 +20,7 @@ Steps:
 #!/bin/sh
 collection="citytwin_managed"
 
-#### delete content stop and start
+#delete content stop and start
 - curl -X POST -H 'Content-Type: application/json' --data-binary '{"delete":{"query":"*:*" }}' http://localhost:8983/solr/$collection/update
 - rm /home/debian/solr/solr-8.8.0/server/solr/$collection/data/index/*
 - rm /home/debian/solr/solr-8.8.0/server/solr/$collection/data/snapshot_metadata/*
