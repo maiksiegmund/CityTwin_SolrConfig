@@ -15,7 +15,7 @@ Steps:
   - example: ./post -c citytwin_managed /media/sf_sharedFolder/festsetzungbegruendung-xvii-50aa.pdf
 
 
-#optional reindex by script
+#### optional reindex by script
 
 #!/bin/sh
 collection="citytwin_managed"
