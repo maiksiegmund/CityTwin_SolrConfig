@@ -1,2 +1,4 @@
 # CityTwin_SolrConfig
-includes models configuration to find locations in textdocuments
+includes models and configs to find locations in textdocuments
+
+
