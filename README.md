@@ -46,6 +46,13 @@ algorithm:
 - perceptron
 - naivebayes
 
+## tools
+
+contains:
+- origin data 
+- scripts 
+- sourcecode 
+
 
 
 
